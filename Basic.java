@@ -1,5 +1,5 @@
 
-public class basic
+public class Basic
 {
 System.out.println("Basic");
 }
